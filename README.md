@@ -7,7 +7,8 @@
 
 Goal
 -------------------
- - Scrape ASX financial data to use in the development of an investment strategy and to evaluate the results
+ - Acquire historical financial data for ASX listed companies
+ - Automate the process
 
 ----------
 

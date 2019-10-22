@@ -2,7 +2,7 @@
 ===================
 
 
-#### Project Preparation
+#### Project Preparation & Interesting Mini-Project
 ------------------------------------------------------------------------
 
 Goal

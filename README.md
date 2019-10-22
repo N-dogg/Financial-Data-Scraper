@@ -24,6 +24,8 @@ First part of the program iterates through all ASX codes, updating the URL and s
 
 Finally, we want to go from the example about for each company and combine all the same statements into their own excel file i.e. P&L.xlsx, balance_sheet.xlsx etc. 
 
+![Captu](https://user-images.githubusercontent.com/43980002/67261376-1bf4d480-f4ec-11e9-887a-2114254015e1.JPG)
+
 ----------
 
 Requirements

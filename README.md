@@ -22,7 +22,7 @@ First part of the program iterates through all ASX codes, updating the URL and s
 
 ![Cap](https://user-images.githubusercontent.com/43980002/67251759-dcae8f80-f4bb-11e9-8eca-6daf822e086e.JPG)
 
-Finally, we want to go from the example about for each company and combine all the same statements into their own excel file i.e. P&L.xlsx, balance_sheet.xlsx etc. 
+Finally, we want to go from the example above for each company and combine all the same statements into their own excel file i.e. P&L.xlsx, balance_sheet.xlsx etc. See example below.
 
 ![Captu](https://user-images.githubusercontent.com/43980002/67261376-1bf4d480-f4ec-11e9-887a-2114254015e1.JPG)
 

@@ -7,7 +7,7 @@
 
 Goal
 -------------------
- - Acquire historical financial data for ASX listed companies
+ - Source historical financial data for ASX listed companies
  - Automate the process
 
 ----------

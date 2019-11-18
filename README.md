@@ -2,7 +2,7 @@
 ===================
 
 
-#### Project Preparation & Interesting Mini-Project
+#### Script to scrape financial data for use in an investment project
 ------------------------------------------------------------------------
 
 Goal

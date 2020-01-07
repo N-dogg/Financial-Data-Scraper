@@ -1,4 +1,6 @@
-﻿Financial Data Scraper
+# OBSOLETE
+
+Financial Data Scraper
 ===================
 
 

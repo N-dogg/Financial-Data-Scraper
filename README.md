@@ -1,4 +1,6 @@
-# OBSOLETE
+# OBSOLETE - See Yahoo Finance Scraper
+- This project is obsolete because the data provider requires payment, I have built the equivalent for Yahoo Finance
+- Project is interesting for excel document re-formatting from .xls to .xlsx
 
 Financial Data Scraper
 ===================
